@@ -12,7 +12,7 @@
 
 **Dashboard Preview**
 
-![Blinkit Sales Dashboard](images/dashboard-overview.png)
+![Blinkit Sales Dashboard](https://github.com/jjBrij/Sales-Insight-On-Power-BI---Blinkit/blob/main/Dashboard%20View.png?raw=true)
 
 ---
 
